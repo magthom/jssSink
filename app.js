@@ -57,11 +57,22 @@ function checkAge(name, age) {
         alert("Sorry, " + name + " you are not old enough to view this page!");
     } else {
         console.log( name + " is old enough to view this page.");
-    }}
+    }};
 checkAge(friends[0].name, friends[0].age);
 checkAge(friends[1].name, friends[1].age);
 checkAge(friends[2].name, friends[2].age);
 checkAge(friends[3].name, friends[3].age);
 checkAge(friends[4].name, friends[4].age);
 
-
+let phrase = ['hello world!']; 
+function getLength(phrase) {
+}
+{
+    console.log(phrase.length);
+};
+var x = 1; {
+    if(x = 1,3,5,9) {
+        console.log('The world is an odd place!')
+    }
+};
+// WOOOOOOO HOOOOOOOO FINALLY 
